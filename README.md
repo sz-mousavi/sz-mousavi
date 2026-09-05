@@ -14,3 +14,4 @@ I work on integrating genomic, transcriptomic, and proteomic data to explain dis
 ## Links
 - ORCID:https://orcid.org/0000-0001-8298-2770
 - LinkedIn:https://www.linkedin.com/in/seyedeh-zahra-mousavi/
+- [LinkedIn](https://www.linkedin.com/in/seyedeh-zahra-mousavi/)
