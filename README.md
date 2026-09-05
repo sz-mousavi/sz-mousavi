@@ -1,16 +1,13 @@
-## Hi there 👋
+# Seyedeh Zahra Mousavi
 
-<!--
-**sz-mousavi/sz-mousavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Bioinformatician & Molecular Geneticist @ TUM  
+Multi-omics in **cancer** and **male infertility**
 
-Here are some ideas to get you started:
+I work on integrating genomic, transcriptomic, and proteomic data to explain disease mechanisms and support translational research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+- **Genomics:** WES, CNV
+- **Transcriptomics:** bulk RNA-seq, scRNA-seq, circRNA
+- **Proteomics & EVs**
+- **Networks:** WGCNA, cell–cell communication
+- **Structure:** protein modeling, docking, MD simulation
