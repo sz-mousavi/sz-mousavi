@@ -1,13 +1,12 @@
 # Seyedeh Zahra Mousavi
 
-Senior Bioinformatician & Molecular Geneticist @ Technical University of Munich.
-
-Multi-omics in **cancer** and **male infertility**. I integrate genomic, transcriptomic, and proteomic data to explain disease mechanisms and support translational research.
+Senior Bioinformatician & Molecular Geneticist at the Technical University of Munich (TUM).
+I work on **multi-omics in cancer and male infertility**, combining WES, transcriptomics, proteomics, and structural modelling to explain disease mechanisms and support translational research.
 
 ## Focus
 - **Genomics:** WES, CNV
-- **Transcriptomics:** bulk RNA-seq, scRNA-seq, circRNA
-- **Proteomics & EVs**
+- **Transcriptomics:** microarray, bulk RNA-seq, scRNA-seq, circRNA
+- **Proteomics & extracellular vesicles**
 - **Networks:** WGCNA, cell–cell communication
 - **Structural analysis:** protein modeling, docking, MD simulation
 ## Links
