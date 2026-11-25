@@ -2,7 +2,7 @@
 
 Senior Bioinformatician & Molecular Geneticist at the Technical University of Munich (TUM).
 
-I work on **multi-omics in male infertility and cancer immunology**, combining WES, transcriptomics, proteomics, and structural modelling to explain disease mechanisms and support translational research.
+I work on **multi-omics in cancer immunology and male infertility**, combining WES, transcriptomics, proteomics, and structural modelling to explain disease mechanisms and support translational research.
 
 ## Focus
 - **Genomics:** WES, CNV
